@@ -1,0 +1,2 @@
+# DSTMod-template
+CCCCCCCCCCC
